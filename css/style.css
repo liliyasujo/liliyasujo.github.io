@@ -186,7 +186,7 @@ ul.wmuSliderPagination {
 	width: 15px;
 	display: inline-block;
 	border: 3px solid #CCCECE;
-	-webkit-border-radius: 50%;
+	/* -webkit-border-radius: 50%; */
 }
 .wmuSliderPagination a.wmuActive {
 	background: #ef664d;
@@ -527,7 +527,7 @@ ul.wmuSliderPagination {
 	filter: alpha(opacity=99); 
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=99)";
 }
-#portfoliolist .portfolio {
+/* #portfoliolist .portfolio {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-o-box-sizing: border-box;
@@ -552,7 +552,7 @@ div#portfoliolist {
 	transition: all 300ms!important;
 	-webkit-transition: all 300ms!important;
 	-moz-transition: all 300ms!important;
-}
+} */
 /******** SAP ************/
 .sap_tabs{
 	clear:both;
